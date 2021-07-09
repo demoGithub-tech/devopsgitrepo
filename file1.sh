@@ -4,4 +4,5 @@ free -m
 date
 uname -r
 
-echo "The jenkinsjob build successfully"
+df-h
+echo "The jenkinsjob build successfully by using github webhook"
