@@ -1,7 +1,5 @@
 #!/bin/bash
 
-free -m
-date
-uname -r
+sudo touch file{1..4}
 
-echo "The jenkinsjob build successfully"
+echo "The jenkinsjob is build successfully"
